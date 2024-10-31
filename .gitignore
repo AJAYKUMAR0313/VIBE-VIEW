@@ -1,0 +1,8 @@
+/node_modules
+/backend/venv
+/frontend/.env
+/package-lock.json
+/glove.6B.100d.txt
+/backend/app/__pycache__
+/backend/Dockerfile
+/frontend/package-lock.json
